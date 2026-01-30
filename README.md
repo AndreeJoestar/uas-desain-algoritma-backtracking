@@ -26,11 +26,9 @@ Beberapa aturan yang diterapkan dalam penjadwalan:
 4. Buka browser dan akses: http://localhost/jadwal_shift/index.php
 5. Aplikasi akan menampilkan hasil penjadwalan karyawan.
 
-## Struktur File
 jadwal_shift/
-│
-├── index.php -> File utama berisi logika algoritma backtracking
-└── README.md -> Dokumentasi aplikasi
+├── index.php    # File utama berisi logika algoritma backtracking
+└── README.md    # Dokumentasi aplikasi
 
 ## Keterangan
 Seluruh logika algoritma backtracking, pengecekan constraint, dan proses penjadwalan diimplementasikan langsung di dalam file `index.php`.
